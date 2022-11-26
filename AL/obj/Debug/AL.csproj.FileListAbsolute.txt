@@ -1,0 +1,7 @@
+C:\Users\ramya\Desktop\c# programming\Csharp programming\AL\bin\Debug\AL.exe
+C:\Users\ramya\Desktop\c# programming\Csharp programming\AL\bin\Debug\AL.pdb
+C:\Users\ramya\Desktop\c# programming\Csharp programming\AL\obj\Debug\AL.csproj.AssemblyReference.cache
+C:\Users\ramya\Desktop\c# programming\Csharp programming\AL\obj\Debug\AL.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramya\Desktop\c# programming\Csharp programming\AL\obj\Debug\AL.csproj.CoreCompileInputs.cache
+C:\Users\ramya\Desktop\c# programming\Csharp programming\AL\obj\Debug\AL.exe
+C:\Users\ramya\Desktop\c# programming\Csharp programming\AL\obj\Debug\AL.pdb
