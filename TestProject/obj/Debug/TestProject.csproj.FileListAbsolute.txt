@@ -1,0 +1,13 @@
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\TestProject\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\TestProject\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\TestProject\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\TestProject\bin\Debug\TestProject.exe
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\TestProject\bin\Debug\TestProject.pdb
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\TestProject\bin\Debug\WebDriver.dll
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\TestProject\bin\Debug\WebDriver.Support.dll
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\TestProject\obj\Debug\TestProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\TestProject\obj\Debug\TestProject.exe
+C:\Users\ramya\Desktop\TestZenLabs\TestZenLabs\TestProject\obj\Debug\TestProject.pdb
